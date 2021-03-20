@@ -1,4 +1,4 @@
-- Hey! @medelae here. I'm new to GitHub.
+- Hey! @medelae here.
 
 - I like all sorts of nerdy things, and making all sorts of nerdy things.
 - I’m currently learning Javascript and the ukelele.
