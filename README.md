@@ -1,6 +1,6 @@
 - Hey! @medelae here.
 
-- I like all sorts of nerdy fun things, and making all sorts of nerdy fun things.
+- Math/CS grad. I like all sorts of nerdy fun things, and making all sorts of nerdy fun things.
 - I’m currently learning Javascript and the ukelele.
 - Thanks for visiting!
 
