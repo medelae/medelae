@@ -1,6 +1,6 @@
 - Hey! @medelae here.
 
-- Math/CS grad and long-time illustrator based in Northern Virginia. I like all sorts of nerdy fun things, and making all sorts of nerdy fun things.
+- Math/CS grad and long-time illustrator based in Northern Virginia.<br>I like all sorts of nerdy fun things, and making all sorts of nerdy fun things.
 - I’m currently learning Javascript and the ukelele.
 - Thanks for visiting!
 
